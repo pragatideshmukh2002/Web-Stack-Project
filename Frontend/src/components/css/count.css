@@ -1,0 +1,11 @@
+.NumOfRestro {
+    font-size: 3rem;
+    margin-top: 4%;
+}
+
+.Restro {
+    font-size: 2rem;
+    margin-top: 4%;
+    font-style:calc(6);
+    
+}
